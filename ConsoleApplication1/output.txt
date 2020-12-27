@@ -1,0 +1,2 @@
+2 + 2
+Converted expression in Postfix form: 2 2 + = 4.000000

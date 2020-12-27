@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Visual Studio\проекты\course_3sem\ConsoleApplication1\ConsoleApplication1\strl.h(98): warning C4715: strl::exe: значение возвращается не при всех путях выполнения
+D:\Visual Studio\проекты\course_3sem\ConsoleApplication1\ConsoleApplication1\strl.h(109): warning C4715: strl::exe: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Visual Studio\проекты\course_3sem\ConsoleApplication1\x64\Debug\UnitTest1.lib и объект D:\Visual Studio\проекты\course_3sem\ConsoleApplication1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio\проекты\course_3sem\ConsoleApplication1\x64\Debug\UnitTest1.dll
